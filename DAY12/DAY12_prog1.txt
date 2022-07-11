@@ -1,0 +1,7 @@
+//Find common elements in three sorted arrays, 3 array values are given as input to program.
+
+
+step1: given three sorted  array
+step2: find the size of three array
+step3: campared the element of each array
+step4: print the commom element of all
