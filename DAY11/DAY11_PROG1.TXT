@@ -1,0 +1,9 @@
+Write a program to do binary search in a sorted array. Program should take input of sorted values and search value. (Make number of elements as configurable value)
+
+How binary search works is explained below.
+
+given  array input element.
+find the size of the array.
+function call for the function definations.
+logic is writen in finction defination based on condation.
+finaly print index value of binary search 
